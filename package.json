@@ -1,11 +1,4 @@
 
- {
-  "name": "my-node-application",
-  "version": "1.0.0",
-  "scripts": {
-    "start": "index.js"
-  }
-}
 {
   "name": "my-node-application",
   "version": "1.0.0",
