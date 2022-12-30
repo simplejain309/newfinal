@@ -3,7 +3,7 @@
   "name": "my-node-application",
   "version": "1.0.0",
   "scripts": {
-    "start": "node index.js"
+    "start": "index.js"
   }
 }
 {
