@@ -6,7 +6,7 @@ var app= express ();
 app.use(express.static('public'));
 app.set('view engine','ejs');
 
-//app.listen(8080);
+app.listen(5000);
 //app.use(bodyParser.urlencoded({extended:true}));
 //localhost:8080
 app.get('/', function(req,res){
